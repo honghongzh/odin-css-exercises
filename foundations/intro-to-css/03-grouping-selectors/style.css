@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+
+.content,
+.title {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.content {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    background-color: yellow;
+}
